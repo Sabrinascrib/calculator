@@ -11,4 +11,3 @@ A modern looking calculator where u can multiply, subtract, add and divide.
 
 https://user-images.githubusercontent.com/94756168/192851154-a49574f6-703b-4ab1-a39e-c09587a002d4.mp4
 
-#
