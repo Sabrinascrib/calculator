@@ -1,6 +1,6 @@
 # CALCULATOR
 ### 💡 - About this project 
-A modern looking calculator where u can multiply, subtract, add and divide. 
+A calculator where u can multiply, subtract, add and divide. 
 
 ### 🛠️ - Dependencies
 <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="35px" /> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="35px" /> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="35px" />&nbsp;
